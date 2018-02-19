@@ -1,0 +1,29 @@
+{
+  "name": "CanvasCamera",
+  "version": "0.0.1",
+  "description": "CanvasCamera",
+  "author": "CanvasCamera",
+  "contributors": [
+    "x"
+  ],
+  "license": "MIT",
+  "main": "www/CanvasCamera.js",
+  "homepage": "x",
+  "cordova": {
+    "id": "com.keith.cordova.plugin.canvascamera",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "engines": [
+    {
+      "name": "cordova-ios",
+      "version": ">=3.8.0"
+    },
+     {
+      "name": "cordova-android",
+      "version": ">=3.8.0"
+    }
+  ]
+}
